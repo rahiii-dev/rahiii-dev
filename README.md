@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahib</h1>
-<h3 align="center">Tech Enthusiast | Full-Stack Developer with a Passion for Modern Web Technologies</h3>
+<h3 align="center">Developer with a Passion for Modern Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahiii-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rahiii-dev" /> </p>
 
 - 💬 Ask me about **MongoDb, React, Express, Javascript,Typescript,Python**
 
 - 📫 How to reach me **https://rahiii-dev.github.io/personal-portfolio**
-
-- ⚡ Fun fact **I taught myself to code by building a game, and now I build scalable web apps!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
